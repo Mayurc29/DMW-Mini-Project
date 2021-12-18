@@ -1,10 +1,10 @@
 # DMW-Mini-Project
-Data Mining &amp; Warehousing Mini Project
+Data Mining &amp; Warehousing Mini Project<br>
 Name : Mayur Chaudhari. A-30<br><br>
 
 Problem Statement : Build a Model to predict an inbetween range of score for the first innings any IPL match<br><br>
 
-Group Members:<br><br>
+Group Members:<br>
 
 A-31 Ketan Deore.<br>
 
